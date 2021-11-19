@@ -1,0 +1,12 @@
+port: 9090
+
+oauthStateString: "random"
+google:
+    clientID: "840951646428-6t3veiglh2m91vlcnpbu5rmg3d76atta.apps.googleusercontent.com"
+    clientSecret: "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"
+facebook:
+    clientID: "1552866148380371"
+    clientSecret: "0d3ac515edc3c72d28d3bd885972d225"
+github:
+    clientID: "Iv1.ce5eb5b554353b0a"
+    clientSecret: "7afe8609f23197bb231fd73b0a13820b4cbc8926"
